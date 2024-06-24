@@ -176,7 +176,7 @@ PgAdmin4 Rodando Localmente.
 
 Docker container rodando localmente.
 
-Este tutorial foi elaborado por <b>Leonardo Bruno</b><p>
+Este repositório foi criado por <b>Leonardo Bruno</b><p>
 <br>202301011744@alunos.estacio.br</br>
 <b>souzalb@proton.me</b>
 
